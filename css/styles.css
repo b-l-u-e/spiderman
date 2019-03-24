@@ -151,34 +151,10 @@ a:hover, a:focus {
   margin: 15px 0px;
 }
 
-
-.carousel{
-  position: relative;
-  margin-bottom: 20px;
-
-  
-  height:100%;
-  background-size: 100% 100%;
-
-}
-.carousel-inner{
-  position: relative;
-  overflow: hidden;
-}
-.carousel-control-prev, .carousel-control-next{
-  position: absolute;
-  top:0;
-  bottom:0;
-  display: flex;
-  width: 15%;
-
-}
 #footer-section{
   border-top: 2px;
   position: relative;
   background-color: black;
-
-
 
 
 
