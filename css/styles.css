@@ -109,6 +109,7 @@ a:hover, a:focus {
 }
 .content{
   text-align: center;
+  z-index:20;
 }
 
 #About .title {
